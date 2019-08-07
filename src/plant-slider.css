@@ -71,6 +71,7 @@ h1, h2, h3, h4, h5, h6, p, a {
     position: absolute;
     top: 0;
 }
+
 .plant-slider .slide .slide-image.ps-active {
   opacity: 1;
     transform: scaleX(1);
